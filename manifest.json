@@ -6,7 +6,7 @@
   "orientation": "portrait",
   "background_color": "#1a3a2f",
   "theme_color": "#1a3a2f",
-  "start_url": "SEU_URL_DO_APPS_SCRIPT_AQUI",
+  "start_url": "https://script.google.com/macros/s/AKfycbwioNED5dezjxjSllUk_4AuKM_7fvpwo1RUTpnbwHC0_kPaRG8g2fMGPfCPuXK-bbvz/exec",
   "icons": [
     { "src": "icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any maskable" },
     { "src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any maskable" }
